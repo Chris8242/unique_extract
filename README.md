@@ -6,3 +6,6 @@ function to extract the unique values from a column from a .csv file and
 saves them to file.
 
 ## List of Dependencies
+The number of columns
+Something to do with libraries, whatever that means
+The type of shell thingy we use
